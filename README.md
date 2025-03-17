@@ -59,7 +59,7 @@ Descarga el proyecto 🗂 y levanta los servicios 🔥:
  3. Identifica y argumenta los tipos de casos de prueba que estarías aplicando para validar los requerimientos propuestos. 
  4. Menciona al menos 3 tipos de técnicas de diseño de casos de prueba que usarías y describe como los estarías aplicando a tu proceso de diseño para obtener todos los casos de prueba a ejecutarse.
  5. Propón una matríz para el diseño de tus casos de prueba y argumenta cual sería el motivo del orden de la ejecución.
- 6. Para la ejecución de tus pruebas vez que no tienes todos los accesos al proyecto y requieres del apoyo de otro miembro del equipo que se encuentra con muchos pendientes de urgencia y no cuenta con disponibilidad de tiempo para juntarse, ¿Cómo accionarías para resolver este bloqueante?.
+ 6. Para la ejecución de tus pruebas vez que no tienes todos los accesos al proyecto y requieres del apoyo de otro miembro del equipo que se encuentra con muchos pendientes de urgencia y no cuenta con disponibilidad de tiempo para que puedan reunirse, ¿Cómo accionarías para resolver este bloqueante?.
  7. Identifica, registra y describe al menos 5 bugs y 3 mejoras por requerimiento que consideres necesarios deban realizarse para poder dar por aprobado la certificación de los requerimientos. (Es libre de proponer una matriz y/o formato para la comunicación y gestión de los bug).
  8. ¿Cómo procederías si el desarrollador te indica que 3 de los bugs que reportaste no aplican?.
  9. ¿Qué considerarías hacer si durante la etapa de ejecución el PO solicita cambios al requerimiento solicitado?.
