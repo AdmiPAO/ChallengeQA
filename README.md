@@ -2,8 +2,8 @@
 
 Hola, bienvenid(@) a la prueba para el puesto QA Engineer, a continuación encontrarás una serie de retos que deberás realizar, ten presente que estos no son ejercicios con respuestas válidas o inválidas, es solo para conocer tus habilidades técnicas y prácticas para manejarte en diferentes situaciones que se puedan originar en el día a día laboral.
 
-# Nota: 
-Primero crear un documento cuyo nombre tenga el siguiente formato: qa-challenge-reto[nombre].docx y procedé a colocar tus respuestas.
+Nota: 
+Primero debes crear un documento cuyo nombre tenga el siguiente formato: [qa-challenge-reto[nombre].docx] y procedé a colocar allí tus respuestas.
 
 A continuación los retos a completar:
 
