@@ -5,9 +5,8 @@ Hola, bienvenid(@) a la prueba para el puesto QA Engineer, a continuación encon
 Nota: 
 Primero debes crear un documento cuyo nombre tenga el siguiente formato: [qa-challenge-reto[nombre].docx] y procedé a colocar allí tus respuestas.
 
-A continuación los retos a completar:
+Leer con atención el siguiente contexto:
 
-# RETO 1
 En el área de TI de UTP surgió la necesidad de realizar un nuevo proyecto de autenticación. El PO registro los siguientes requerimientos:
 
  - Nueva funcionalidad de login
@@ -52,25 +51,30 @@ Descarga el proyecto 🗂 y levanta los servicios 🔥:
 
 ** En este repositorio se encuentra la parte front como la parte back del reto, cada una debe ser ejecutada por separado para comenzar con el challenge.
 
+A continuación se hace mención de los retos:
+
+# RETO 1
+
 ### Objetivos:
- Acabas de ser incorporado al proyecto y este es tu primer requerimiento asignado en la planning:
- 1. Menciona cuales son las actividades que debes realizar para poder tener un buen proceso de control de calidad para el requerimiento asignado.
- 2. ¿Qúe criterios aplicarías para poder estimar los story points del requerimiento siendo un nuevo miembro del equipo?
+Acabas de ser incorporado al proyecto y te asignan la historia de usuario definida lineas arriba. Por consiguiente debes responder como procederías ante las siguientes circunstancias planteadas:
+ 
+ 1. Menciona que actividades realizarías para tener un optimo proceso de control de calidad para la historia de usuario asignada.
+ 2. ¿Cuáles son los criterios que aplicarías para poder estimar los story points de tu historia de usuario siendo un nuevo miembro del equipo?
  3. Identifica y argumenta los tipos de casos de prueba que estarías aplicando para validar los requerimientos propuestos. 
  4. Menciona al menos 3 tipos de técnicas de diseño de casos de prueba que usarías y describe como los estarías aplicando a tu proceso de diseño para obtener todos los casos de prueba a ejecutarse.
  5. Propón una matríz para el diseño de tus casos de prueba y argumenta cual sería el motivo del orden de la ejecución.
- 6. Para la ejecución de tus pruebas vez que no tienes todos los accesos al proyecto y requieres del apoyo de otro miembro del equipo que se encuentra con muchos pendientes de urgencia y no cuenta con disponibilidad de tiempo para que puedan reunirse, ¿Cómo accionarías para resolver este bloqueante?.
- 7. Identifica, registra y describe al menos 5 bugs y 3 mejoras por requerimiento que consideres necesarios deban realizarse para poder dar por aprobado la certificación de los requerimientos. (Es libre de proponer una matriz y/o formato para la comunicación y gestión de los bug).
- 8. ¿Cómo procederías si el desarrollador te indica que 3 de los bugs que reportaste no aplican?.
- 9. ¿Qué considerarías hacer si durante la etapa de ejecución el PO solicita cambios al requerimiento solicitado?.
- 10. ¿Cómo accionarías si ya estás en la fecha programada para la entrega de tu requerimiento pero aún no se han podido concluir con las pruebas?
+ 6. Si para la ejecución de tus pruebas no cuentas con todos los accesos al proyecto y requieres del apoyo de otro miembro del equipo que se encuentra con muchos pendientes de urgencia por tanto no tiene disponibilidad para que puedan reunirse, ¿Cómo accionarías para resolver este bloqueante?.
+ 7. Identifica, registra y describe al menos 5 bugs y 3 mejoras por requerimiento que consideres necesarios deban realizarse para que pueda darse por certifica la historia de usuario. (Eres libre de proponer una matriz y/o formato para la comunicación y gestión de los bug).
+ 8. Si el desarrollador te indica que 3 de los bugs que reportaste no aplican, ¿Cómo procederías ante esta situación?.
+ 9. Si durante la etapa de ejecución el Product Owner solicita cambios al requerimiento solicitado,  ¿Qué considerarías tú que debes hacer?.
+ 10. Si ya estás en el limite de la fecha programada para la entrega de tu historia de usuario y hay presión para que esta fecha se cumpla ¿Cómo procedes a actuar ante esta situación?
 
 Nota: Utiliza las herramientas que consideres necesarias para validar los tipos de pruebas que definiste en el punto 1, de tal manera que se pueda garantizar la certificación de los requerimientos solicitados. 
 
 
 # RETO 2
 
- ### Entornos de trabajo y niveles de pruebas
+### Entornos de trabajo y niveles de pruebas
 
 El equipo maneja varios ambientes de trabajo (Desarrollo, QA, UAT, Produccion) a lo largo del desarrollo del producto. Consideramos que la calidad debe asegurarse en todo el flujo, por lo tanto diferentes pruebas deben realizarce en cada uno de los ambientes propuestos.
 
