@@ -1,15 +1,20 @@
 # QA challenge
 
-Hola, bienvenid(@) a la prueba para el puesto QA Engineer, a continuación encontrarás una serie de retos que deberás realizar, recuerda que estos no son ejercicios de calificación, no hay respuestas válidas o inválidas,
+Hola, bienvenid(@) a la prueba para el puesto QA Engineer, a continuación encontrarás una serie de retos que deberás realizar, ten presente que estos no son ejercicios con respuestas válidas o inválidas, es solo para conocer tus habilidades técnicas y prácticas para manejarte en diferentes situaciones que se puedan originar en el día a día laboral.
+
+# Nota: 
+Primero crear un documento cuyo nombre tenga el siguiente formato: qa-challenge-reto[nombre].docx y procedé a colocar tus respuestas.
+
+A continuación los retos a completar:
 
 # RETO 1
-En el área de TI de UTP surgió el requerimiento de realizar un nuevo proceso de autenticación. Nuestro scrum master registro las siguientes requerimientos:
+En el área de TI de UTP surgió la necesidad de realizar un nuevo proyecto de autenticación. El PO registro los siguientes requerimientos:
 
  - Nueva funcionalidad de login
  - Nueva funcionalidad de registro
 
 ### Historia de usuario
-Como usuario nuevo deseo poder registrarme en la web y poder loguearme de manera satisfactoria
+Como usuario nuevo deseo poder registrarme en la web y poder loguearme de manera satisfactoria.
 
 
 ### Criterios de aceptación
@@ -29,13 +34,13 @@ Los criterios de aceptación para el login son los siguientes:
 - El sistema debe mostrar un mensaje de error al ingresar campos no válidos.
 
 
-El equipo de desarrollo realizo sus tareas y ahora te toca a ti certificar que dichas actividades se realizaron correctamente 🙌. 
+El equipo de desarrollo realizo sus tareas y ahora te toca a ti certificar que dichos requerimientos se llegaron a implementar correctamente 🙌. 
 
-** Todos los requerimientos deben ser considerados tanto para para parte front como para la parte back del sistema.
+** Ojo: En todos los requerimientos se debe considerar la parte front y back del sistema.
 
-### Pasos
+### Descarga el código
 
-Descarga el proyecto 🗂 y levanta🔥los servicios :
+Descarga el proyecto 🗂 y levanta los servicios 🔥:
     
     $ git clone https://github.com/AdmiPAO/ChallengeQA.git
     $ cd ChallengeQA
@@ -47,21 +52,27 @@ Descarga el proyecto 🗂 y levanta🔥los servicios :
 
 ** En este repositorio se encuentra la parte front como la parte back del reto, cada una debe ser ejecutada por separado para comenzar con el challenge.
 
-### Objetivos
-Crea un documento ( qa-challenge-reto[nombre].docx ) para colocar los resultados de los siguientes objetivos
+### Objetivos:
+ Acabas de ser incorporado al proyecto y este es tu primer requerimiento asignado en la planning:
+ 1. Menciona cuales son las actividades que debes realizar para poder tener un buen proceso de control de calidad para el requerimiento asignado.
+ 2. ¿Qúe criterios aplicarías para poder estimar los story points del requerimiento siendo un nuevo miembro del equipo?
+ 3. Identifica y argumenta los tipos de casos de prueba que estarías aplicando para validar los requerimientos propuestos. 
+ 4. Menciona al menos 3 tipos de técnicas de diseño de casos de prueba que usarías y describe como los estarías aplicando a tu proceso de diseño para obtener todos los casos de prueba a ejecutarse.
+ 5. Propón una matríz para el diseño de tus casos de prueba y argumenta cual sería el motivo del orden de la ejecución.
+ 6. Para la ejecución de tus pruebas vez que no tienes todos los accesos al proyecto y requieres del apoyo de otro miembro del equipo que se encuentra con muchos pendientes de urgencia y no cuenta con disponibilidad de tiempo para juntarse, ¿Cómo accionarías para resolver este bloqueante?.
+ 7. Identifica, registra y describe al menos 5 bugs y 3 mejoras por requerimiento que consideres necesarios deban realizarse para poder dar por aprobado la certificación de los requerimientos. (Es libre de proponer una matriz y/o formato para la comunicación y gestión de los bug).
+ 8. ¿Cómo procederías si el desarrollador te indica que 3 de los bugs que reportaste no aplican?.
+ 9. ¿Qué considerarías hacer si durante la etapa de ejecución el PO solicita cambios al requerimiento solicitado?.
+ 10. ¿Cómo accionarías si ya estás en la fecha programada para la entrega de tu requerimiento pero aún no se han podido concluir con las pruebas?
 
- 1. Identifica los tipos de casos de prueba que estarían enlazadas a las requerimientos propuestos. 
- 2. Menciona que técnica de diseño de casos de prueba usarías para poder generar dichos casos ,
- 3. Identifica, registra y describe los bugs o mejoras que consideres necesarios .
- 3. Implementa los tipos de pruebas automatizadas que consideres necesarios (unitarias, servicios, ui , perfomance), de tal manera que se pueda evaluar los requerimientos solicitados. Se debe crear un proyecto en una carpeta aparte llamada qaChallenge (utiliza el framework de automatización que prefieras y deberas subirlo a tu repositorio). 
-
+Nota: Utiliza las herramientas que consideres necesarias para validar los tipos de pruebas que definiste en el punto 1, de tal manera que se pueda garantizar la certificación de los requerimientos solicitados. 
 
 
 # RETO 2
 
  ### Entornos de trabajo y niveles de pruebas
 
-El equipo maneja varios ambientes de trabajo (desarrollo, qa, uat, produccion) a lo largo del desarrollo del producto. Consideramos que la calidad debe asegurarse en todo el flujo, por lo tanto diferentes pruebas debes realizarce en cada uno de los ambientes propuestos.
+El equipo maneja varios ambientes de trabajo (Desarrollo, QA, UAT, Produccion) a lo largo del desarrollo del producto. Consideramos que la calidad debe asegurarse en todo el flujo, por lo tanto diferentes pruebas deben realizarce en cada uno de los ambientes propuestos.
 
 
 Ambientes: 
@@ -72,9 +83,9 @@ Niveles de pruebas :
 
  ### Objetivos
 
- 1. Comenta en base a tu criterio que nivel(es) de pruebas aplicaría para cada ambiente (puedes sugerir otros ambientes u estructura si es que lo consideras) (Coloca tus respuestas en el  documento ( qa-challenge-reto[nombre].docx ) )
+1. Comenta en base a tu criterio que nivel(es) de pruebas aplicarías para cada ambiente (Puedes sugerir otros ambientes u estructura si es que lo consideras)
 
-
+   (Coloca tus respuestas en el documento ( qa-challenge-reto[nombre].docx ))
 
 
 # RETO 3
@@ -95,7 +106,9 @@ Defectos:
 
 
  ### Objetivos
- Para el siguiente conjunto de defectos, prioriza del 1 al 6, siendo el primero el más crítico y explique brevemente por qué (puedes incluir alguna suposición). Coloca tus respuestas en el  documento ( qa-challenge-reto[nombre].docx ) 
+ 1. Para el siguiente conjunto de defectos, prioriza del 1 al 6, siendo 1 el más crítico y explique brevemente el por qué del ordenamiento (puedes incluir alguna suposición que asumas). 
+ 
+ (Coloca tus respuestas en el documento ( qa-challenge-reto[nombre].docx ))
 
 
  # RETO 4
@@ -114,10 +127,12 @@ El equipo de pruebas :
 5. Las pruebas comienzan a estar involucradas en el proceso de desarrollo desde la etapa inicial.
 
  ### Objetivos
-Evalúa si son los procedimientos de la lista son los más adecuados. Brinda una alternativa /  tipo de pruebao mejora para las que no son adecuadas desde tu punto de vista. (Coloca tus respuestas en el  documento ( qa-challenge-reto[nombre].docx ) 
+1. Evalúa si los procedimientos de la lista son los más adecuados y brinda al menos 1 alternativa entre tipo de prueba o mejora que desde tu punto de vista se puede plantear a las reglas que no consideres adecuadas o se deba mejorar. 
+
+  (Coloca tus respuestas en el documento ( qa-challenge-reto[nombre].docx))
 
 
-Recuerda publicar tus respuestas en el repositorio de tu preferencia y envíanos un correo con el link y tu archivo a: pao_admin@utp.edu.pe
+Recuerda enviar tu archivo al remitente que te mando la evaluación y a pao_admin@utp.edu.pe
 
 Ante cualquier duda puedes enviar un correo a pao_admin@utp.edu.pe y estaremos encantados de ayudarte. 
 
