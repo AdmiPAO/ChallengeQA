@@ -59,7 +59,7 @@ A continuación se hace mención de los retos:
 Acabas de ser incorporado al proyecto y te asignan la historia de usuario definida lineas arriba. Por consiguiente debes responder como procederías ante las siguientes circunstancias planteadas:
  
  1. Menciona que actividades realizarías para tener un optimo proceso de control de calidad para la historia de usuario asignada.
- 2. ¿Cuáles son los criterios que aplicarías para poder estimar los story points de tu historia de usuario siendo un nuevo miembro del equipo?
+ 2. Te solicitar poder estimar los story points de tu historia de usuario, siendo que eres un miembro nuevo del equipo ¿Qué criterios aplicarías para poder estimar?
  3. Identifica y argumenta los tipos de casos de prueba que estarías aplicando para validar los requerimientos propuestos. 
  4. Menciona al menos 3 tipos de técnicas de diseño de casos de prueba que usarías y describe como los estarías aplicando a tu proceso de diseño para obtener todos los casos de prueba a ejecutarse.
  5. Propón una matríz para el diseño de tus casos de prueba y argumenta cual sería el motivo del orden de la ejecución.
@@ -69,7 +69,7 @@ Acabas de ser incorporado al proyecto y te asignan la historia de usuario defini
  9. Si durante la etapa de ejecución el Product Owner solicita cambios al requerimiento solicitado,  ¿Qué considerarías tú que debes hacer?.
  10. Si ya estás en el limite de la fecha programada para la entrega de tu historia de usuario y hay presión para que esta fecha se cumpla ¿Cómo procedes a actuar ante esta situación?
 
-Nota: Utiliza las herramientas que consideres necesarias para validar los tipos de pruebas que definiste en el punto 1, de tal manera que se pueda garantizar la certificación de los requerimientos solicitados. 
+Nota: Utiliza las herramientas que consideres necesarias para validar los tipos de pruebas que definiste en el punto 3, de tal manera que se pueda garantizar la correcta certificación de tu historia de usuario. 
 
 
 # RETO 2
