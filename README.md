@@ -59,14 +59,14 @@ A continuación se hace mención de los retos:
 Acabas de ser incorporado al proyecto y te asignan la historia de usuario definida lineas arriba. Por consiguiente debes responder como procederías ante las siguientes circunstancias planteadas:
  
  1. Menciona que actividades realizarías para tener un optimo proceso de control de calidad para la historia de usuario asignada.
- 2. Te solicitar poder estimar los story points de tu historia de usuario, siendo que eres un miembro nuevo del equipo ¿Qué criterios aplicarías para poder estimar?
+ 2. Te solicitan poder estimar los story points de tu historia de usuario, siendo que eres un miembro nuevo del equipo ¿Qué criterios aplicarías para poder estimar?
  3. Identifica y argumenta los tipos de casos de prueba que estarías aplicando para validar los requerimientos propuestos. 
- 4. Menciona al menos 3 tipos de técnicas de diseño de casos de prueba que usarías y describe como los estarías aplicando a tu proceso de diseño para obtener todos los casos de prueba a ejecutarse.
- 5. Propón una matríz para el diseño de tus casos de prueba y argumenta cual sería el motivo del orden de la ejecución.
- 6. Si para la ejecución de tus pruebas no cuentas con todos los accesos al proyecto y requieres del apoyo de otro miembro del equipo que se encuentra con muchos pendientes de urgencia por tanto no tiene disponibilidad para que puedan reunirse, ¿Cómo accionarías para resolver este bloqueante?.
+ 4. Menciona al menos 3 tipos de técnicas de diseño de casos de prueba que usarías y describe como los estarías aplicando a tu proceso de diseño de casos de prueba para obtener el total de tus casos a ejecutarse.
+ 5. Propón una matríz para el diseño de los casos de prueba y menciona cual sería el motivo del orden de la ejecución.
+ 6. Si en la ejecución de tus pruebas corroboras que no cuentas con todos los accesos al proyecto y requieres del apoyo de otro miembro del equipo que se encuentra con muchos pendientes de urgencia, por tanto no tiene disponibilidad para que puedan reunirse, ¿Cómo accionarías para resolver este bloqueante?.
  7. Identifica, registra y describe al menos 5 bugs y 3 mejoras por requerimiento que consideres necesarios deban realizarse para que pueda darse por certifica la historia de usuario. (Eres libre de proponer una matriz y/o formato para la comunicación y gestión de los bug).
  8. Si el desarrollador te indica que 3 de los bugs que reportaste no aplican, ¿Cómo procederías ante esta situación?.
- 9. Si durante la etapa de ejecución el Product Owner solicita cambios al requerimiento solicitado,  ¿Qué considerarías tú que debes hacer?.
+ 9. Si durante la etapa de ejecución el Product Owner solicita agregar cambios al requerimiento que estas validando,  ¿Qué considerarías tú que debes hacer?.
  10. Si ya estás en el limite de la fecha programada para la entrega de tu historia de usuario y hay presión para que esta fecha se cumpla ¿Cómo procedes a actuar ante esta situación?
 
 Nota: Utiliza las herramientas que consideres necesarias para validar los tipos de pruebas que definiste en el punto 3, de tal manera que se pueda garantizar la correcta certificación de tu historia de usuario. 
